@@ -155,12 +155,10 @@ Potential enhancements include:
 
 **Vinay Karri**
 
-Electronics & Communication Engineering (ECE)
-
+B.Tech in Electronics & Communication Engineering (ECE)  
 RGUKT IIIT Nuzvid
 
-GitHub: https://github.com/karrivinay54
-
+GitHub: **[@karrivinay54](https://github.com/karrivinay54)**
 ---
 
 ## ⭐ If you found this project useful, consider giving it a star!
