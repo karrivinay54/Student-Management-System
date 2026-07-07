@@ -159,6 +159,10 @@ B.Tech in Electronics & Communication Engineering (ECE)
 RGUKT IIIT Nuzvid
 
 GitHub: **[@karrivinay54](https://github.com/karrivinay54)**
+
+LinkedIn:
+(https://www.linkedin.com/in/vinay-karri-53071b288/)
+
 ---
 
 ## ⭐ If you found this project useful, consider giving it a star!
